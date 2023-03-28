@@ -1,0 +1,11 @@
+Create a new question
+---
+tags:
+  - Chatbot
+requestBody:
+  content:
+    application/json:
+      text: string
+responses:
+  200:
+    description: Success
