@@ -1,4 +1,4 @@
-# 🦜️🔗 A Chatbot for Bookblaster with Langchain and Pinecone
+# 🦜️🔗 A Chatbot with Langchain and Pinecone
 
 This repo is an implementation of a locally hosted chatbot specifically focused on question answering over the [LangChain documentation](https://langchain.readthedocs.io/en/latest/).
 Built with [LangChain](https://github.com/hwchase17/langchain/) and [Flask](https://flask.palletsprojects.com/en/2.2.x/api/).
